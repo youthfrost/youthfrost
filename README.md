@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Cher Han 👋
+
+I'm a final-year **Business Analytics student at NUS** with a focus on **Machine Learning**.
+
+## 🔧 Tech & Skills
+- **Languages:** Python, Java, JavaScript
+- **Data Science & ML:** Pandas, Scikit-learn, TensorFlow, PyTorch
+- **Web Dev:** React, Vue, Node.js, HTML/CSS
 
 <!--
 **youthfrost/youthfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
